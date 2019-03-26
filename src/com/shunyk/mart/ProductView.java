@@ -11,11 +11,12 @@ public class ProductView {
 		System.out.println("=======================");
 	}
 	
-	public void info(int price, int amount, String brand, double sale) {
+/*	public void info(int price, int amount, String brand, double sale) {
 		System.out.println("상품 이름 : " + brand);
 		System.out.println("상품 가격 : " + price);
 		System.out.println("상품 재고 : " + amount);
 		System.out.println("할인 : " + sale);
 		System.out.println("=======================");
 	}
+	*/
 }
