@@ -3,8 +3,6 @@ package com.shunyk.school;
 import java.util.Scanner;
 
 public class StudentView {
-	Teacher tc = new Teacher();
-	SchoolMain5 sm5 = new SchoolMain5();
 	Scanner sc = new Scanner(System.in);
 
 	//public void listView(Student[] students){
